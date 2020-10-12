@@ -1,0 +1,12 @@
+{
+  "name": "e2e",
+  "displayName": "e2e",
+  "expo": {
+    "name": "e2e",
+    "slug": "e2e",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
